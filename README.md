@@ -1,4 +1,4 @@
-### Hi there, I'm [Omar Abdelwahab]https://www.linkedin.com/in/omar-abdelwahab-2875501a6/) 👋
+### Hi there, I'm [Omar Abdelwahab](https://www.linkedin.com/in/omar-abdelwahab-2875501a6/) 👋
 
 ## I'm Open To Work
 
