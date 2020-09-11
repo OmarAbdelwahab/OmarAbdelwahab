@@ -37,5 +37,9 @@
 
 [![Omar's github stats](https://github-readme-stats.vercel.app/api?username=OmarAbdelwahab)](https://github.com/anuraghazra/github-readme-stats)
 
+### Top Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAbdelwahab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [linkedin]: https://www.linkedin.com/in/omar-abdelwahab-2875501a6/
