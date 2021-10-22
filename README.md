@@ -23,7 +23,7 @@
 
 <img align="left" alt="ReactJS" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" />
 
-<img align="left" alt="Material UI" width="26px" src="https://material-ui.com/static/logo_raw.svg" />
+<img align="left" alt="Material UI" width="26px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" />
 
 <img align="left" alt="Discord.js" width="26px" src="https://avatars0.githubusercontent.com/u/26492485?s=200&v=4" />
 
