@@ -2,10 +2,6 @@
 
 ## I'm Open To Work
 
-- 🔭 I’m currently working on [Open Core Bot](https://github.com/OmarAbdelwahab/Open-Core-Bot.git)!
-- 🌱 I’m currently learning Javascript, Node.js, Discord.js, Nodemon and SuperAgent API
-- 👯 I’m looking to collaborate with other Software Engineers
-
 ### Languages and Tools:
 
 <img align="left" alt="VS Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
