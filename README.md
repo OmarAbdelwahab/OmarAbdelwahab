@@ -39,7 +39,7 @@
 ![](https://raw.githubusercontent.com/OmarAbdelwahab/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ### Top Languages:
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/OmarAbdelwahab/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 [linkedin]: https://www.linkedin.com/in/omar-abdelwahab-2875501a6/
 
