@@ -32,7 +32,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/omar-abdelwahab-2875501a6/
+
 
 <br />
 
@@ -44,5 +44,5 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAbdelwahab)](https://github.com/anuraghazra/github-readme-stats)-->
 
-
+[linkedin]: https://www.linkedin.com/in/omar-abdelwahab-2875501a6/
 
